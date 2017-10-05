@@ -1,0 +1,7 @@
+export const INPUT_VAL = 'INPUT_VAL'
+export const FEATURED_COURSES = 'FEATURED_COURSES'
+export const FEATURED_COURSES_URL = 'https://api.cebroker.com/v2/featuredCoursesProfession?profession=36'
+export const COURSES = 'https://api.cebroker.com/v2/search/courses/?expand=totalItems&pageIndex=1&pageSize=18&sortField=RELEVANCE&profession=36&courseType=CD_ANYTIME&sortShufflingSeed=27'
+export const COURSES_RESULT = 'COURSES_RESULT'
+export const SEARCH_URL = 'https://api.cebroker.com/v2/search/courses/?expand=totalItems&pageIndex=1&pageSize=18&sortField=RELEVANCE&profession=36&courseType=CD_ANYTIME&sortShufflingSeed=27&courseName='
+export const IMAGE_URL = 'https://storage.cebroker.com/CEBroker/'
